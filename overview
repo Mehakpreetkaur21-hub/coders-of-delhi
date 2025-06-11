@@ -1,0 +1,22 @@
+Data Science Internship Project
+This project simulates a mini social network recommendation system using Python and JSON data.
+
+🔧 Key Features:
+Data Loading & Parsing: Loaded structured JSON data representing users, friendships, and liked pages.
+
+Data Cleaning & Transformation: Mapped user/page IDs to human-readable names and organized relationships for better accessibility.
+
+Recommendation Engine:
+
+People You May Know: Suggested potential friends based on mutual connections.
+
+Pages You Might Like: Recommended pages liked by a user’s friends.
+
+🧰 Tools & Technologies:
+Python
+
+JSON
+
+Data Structures (Dictionaries, Sets)
+
+Logic for social graph traversal
